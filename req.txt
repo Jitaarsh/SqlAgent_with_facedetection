@@ -1,0 +1,9 @@
+flask==3.1.3
+torch==2.13.0
+torchvision==0.28.0
+facenet-pytorch==2.6.0
+scipy==1.17.1
+Pillow
+numpy
+pymysql
+pymilvus
